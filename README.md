@@ -25,5 +25,5 @@ No external libraries required
 
 1. **Clone or download** the repository:
    ```bash
-   git clone https://github.com/yourusername/finance-tracker.git
+   git https://github.com/yourusername/finance-tracker.git](https://github.com/LuisAlVL/python-capstone-finance-tracker.git
    cd finance-tracker
